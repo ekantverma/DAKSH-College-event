@@ -130,7 +130,7 @@ const Footer = () => {
               />
             </div>
             <div>
-              <p>Mangalayatan University</p>
+              <p>Mangalayatan University Aligarh</p>
             </div>
           </div>
           <div className={classes.footer_contact}>
